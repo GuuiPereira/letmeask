@@ -19,7 +19,7 @@ $ cd letmeask
 $ yarn
 
 # Start the project
-$ yarn dev
+$ yarn start
 
 ```
 
